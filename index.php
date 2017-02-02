@@ -5,7 +5,7 @@
     <title>page de test</title>
   </head>
   <body>
-    Hello
+    Hello ;)
     <?php echo "ok" ?>
   </body>
 </html>
