@@ -1,0 +1,17 @@
+header {
+  background: green;
+  font-size: 12px;
+}
+footer {
+  background: blue;
+}
+body {
+  background: red;
+  margin: 0;
+}
+body .ok {
+  color: red;
+  margin: 10px;
+  padding: 10px;
+  border: 1px solid blue;
+}
